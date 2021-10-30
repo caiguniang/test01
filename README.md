@@ -1,2 +1,2 @@
 # test01
-my first repository
+this is a test repository for caiguniang's first github study
